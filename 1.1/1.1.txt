@@ -1,0 +1,7 @@
+1.1: Getting started
+
+docker ps -a              
+CONTAINER ID   IMAGE      COMMAND                  CREATED              STATUS                          PORTS     NAMES
+f99af10e1205   postgres   "docker-entrypoint.s…"   About a minute ago   Exited (1) About a minute ago             nostalgic_agnesi
+253d7d1f3928   owncloud   "docker-entrypoint.s…"   About a minute ago   Exited (0) 4 seconds ago                  laughing_robinson
+e0fd118a1565   nginx      "/docker-entrypoint.…"   About a minute ago   Up About a minute               80/tcp    gifted_lovelace
